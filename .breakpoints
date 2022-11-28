@@ -27,9 +27,9 @@
     "basics/output/escape_characters.py": [
       {
         "id": "51d2fd96-bda6-4bd0-a3ca-ad1452ed3117",
-        "line": 6,
-        "version": 213,
-        "index": 161
+        "line": 9,
+        "version": 226,
+        "index": 528
       }
     ],
     "basics/output/simple_message.py": [
@@ -74,37 +74,37 @@
       {
         "id": "8dee7934-4223-4fcc-ab87-f9106054de87",
         "line": 1,
-        "version": 42525,
+        "version": 42555,
         "index": 0
       },
       {
         "id": "cabefea5-0dd5-412c-b82f-92a0de557f60",
         "line": 1,
-        "version": 42525,
+        "version": 42555,
         "index": 0
       },
       {
         "id": "0e29d637-e2d1-4b10-b329-bfd5eacbc030",
         "line": 1,
-        "version": 42525,
+        "version": 42555,
         "index": 0
       },
       {
         "id": "8fc05ac7-835a-417f-b409-30bddfe8aa70",
         "line": 1,
-        "version": 42525,
+        "version": 42555,
         "index": 0
       },
       {
         "id": "4ba76c40-0ade-4662-8d9c-fdfc5834ff24",
         "line": 1,
-        "version": 42525,
+        "version": 42555,
         "index": 0
       },
       {
         "id": "6ff8b658-31c0-4a13-a7ad-3f23067a3efb",
         "line": 1,
-        "version": 42525,
+        "version": 42555,
         "index": 0
       }
     ],
