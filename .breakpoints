@@ -1,0 +1,134 @@
+{
+  "files": {
+    "README.md": [
+      {
+        "id": "0b46c624-eea7-4d99-892d-1c11d01d5fcc",
+        "line": 3,
+        "version": 1,
+        "index": 19
+      }
+    ],
+    "basics/input/string_operators.py": [
+      {
+        "id": "4d00e8fb-e2ff-456e-8181-c6025bf9b82b",
+        "line": 1,
+        "version": 72,
+        "index": 0
+      }
+    ],
+    "basics/output/ascii_art.py": [
+      {
+        "id": "93d985a6-0d67-40ff-abc9-4b9969a17611",
+        "line": 1,
+        "version": 2058,
+        "index": 0
+      }
+    ],
+    "basics/output/escape_characters.py": [
+      {
+        "id": "51d2fd96-bda6-4bd0-a3ca-ad1452ed3117",
+        "line": 6,
+        "version": 213,
+        "index": 161
+      }
+    ],
+    "basics/output/simple_message.py": [
+      {
+        "id": "1c150d90-751c-4c48-b145-dc51d7b281b7",
+        "line": 1,
+        "version": 158,
+        "index": 0
+      },
+      {
+        "id": "6a24782f-5f9c-43ca-a90c-b48bae063498",
+        "line": 1,
+        "version": 158,
+        "index": 0
+      }
+    ],
+    "demos/W6_song.py": [
+      {
+        "id": "17d1b26a-c611-46f8-aa80-11b93e603aa4",
+        "line": 41,
+        "version": 1,
+        "index": 1010
+      }
+    ],
+    "demos/cupcake.py": [
+      {
+        "id": "3c98a423-985d-4fa7-afb0-ed7a89890c5d",
+        "line": 3,
+        "version": 1,
+        "index": 113
+      }
+    ],
+    "findPrime.py": [
+      {
+        "id": "e8f2f58f-20ab-4fe7-aee6-5f72e44b422b",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "8dee7934-4223-4fcc-ab87-f9106054de87",
+        "line": 1,
+        "version": 42525,
+        "index": 0
+      },
+      {
+        "id": "cabefea5-0dd5-412c-b82f-92a0de557f60",
+        "line": 1,
+        "version": 42525,
+        "index": 0
+      },
+      {
+        "id": "0e29d637-e2d1-4b10-b329-bfd5eacbc030",
+        "line": 1,
+        "version": 42525,
+        "index": 0
+      },
+      {
+        "id": "8fc05ac7-835a-417f-b409-30bddfe8aa70",
+        "line": 1,
+        "version": 42525,
+        "index": 0
+      },
+      {
+        "id": "4ba76c40-0ade-4662-8d9c-fdfc5834ff24",
+        "line": 1,
+        "version": 42525,
+        "index": 0
+      },
+      {
+        "id": "6ff8b658-31c0-4a13-a7ad-3f23067a3efb",
+        "line": 1,
+        "version": 42525,
+        "index": 0
+      }
+    ],
+    "visual/animation/function.py": [
+      {
+        "id": "b47fccda-384a-45b4-a1c2-0fb3cd770df6",
+        "line": 1,
+        "version": 185,
+        "index": 0
+      }
+    ],
+    "visual/animation/marker.py": [
+      {
+        "id": "2fa47964-8274-45e3-8fab-e5d52cad31a6",
+        "line": 16,
+        "version": 1,
+        "index": 327
+      },
+      {
+        "id": "1edb0000-9ada-44e3-ad07-b9a4a1fe911f",
+        "line": 18,
+        "version": 1,
+        "index": 336
+      }
+    ]
+  }
+}
