@@ -1,2 +1,2 @@
 # qho426
-Uni work 
+Learning python
